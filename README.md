@@ -1,7 +1,7 @@
 Drools Spring integration using Maven
 =====================================
 
-This project is mavenized version of the 2 Drools examples [Banking example](http://docs.jboss.org/drools/release/5.2.0.Final/drools-expert-docs/html/ch09.html#d0e9044) and [Pricing and Decision Table Rules example] (http://docs.jboss.org/drools/release/5.2.0.Final/drools-expert-docs/html/ch09.html#d0e9371).
+This a project is mavenized version of the 2 Drools examples [Banking example](http://docs.jboss.org/drools/release/5.2.0.Final/drools-expert-docs/html/ch09.html#d0e9044) and [Pricing and Decision Table Rules example] (http://docs.jboss.org/drools/release/5.2.0.Final/drools-expert-docs/html/ch09.html#d0e9371).
 
 In order to start this example run 
 
